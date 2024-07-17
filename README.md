@@ -1,16 +1,16 @@
-## Hi there 👋
+ Hi there 👋 i'm Afolabi Sheriffdeen
 
-<!--
-**Only1Afoo/Only1Afoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ An Aspiring Fullstack Developer from Nigeria
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning Cloud Management
+- 👯 I’m looking to collaborate on Web Applo=ications
+- 🤔 I’m looking for help with 
+- 💬 Ask me about Javascript and React js
+- 📫 How to reach me: Sheriffdeenafolabi@outlook.com
+- ⚡ Fun fact: i smile when crying !!
 -->
+
+
+
